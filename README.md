@@ -1,0 +1,2 @@
+# -Student-Dropout-Prediction-Early-Warning-System-for-Education---Machine-Learning
+An end-to-end machine learning project that predicts students at risk of dropping out of higher education, enabling institutions to intervene early. Built with a focus on social impact and imbalanced classification.   Goal: identify at-risk students before they drop out, so support (tutoring, counseling, financial aid) can be provided in time. 
